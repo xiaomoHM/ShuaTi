@@ -10,8 +10,8 @@
 
 | 首页 - 试卷导入 | 刷题模式 | 交卷评分 |
 |:---:|:---:|:---:|
-| ![首页](images/home.png) | ![刷题](images/exam.png) | ![评分](images/score.png) |
-<img width="438" height="944" alt="Screenshot_2026-06-09T180513" src="https://github.com/user-attachments/assets/969b07ac-fffc-4c08-8962-a838e078d8ca" />
+| ![首页](<img width="438" height="944" alt="Screenshot_2026-06-09T180513" src="https://github.com/user-attachments/assets/969b07ac-fffc-4c08-8962-a838e078d8ca" />) | 
+![刷题](images/exam.png) | ![评分](images/score.png) |
 
 *(请将以上图片放入仓库的 `images/` 目录，或替换为真实截图)*
 
